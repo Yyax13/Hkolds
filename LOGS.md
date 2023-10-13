@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 12-10-23 7:11pm
+> Change version in README.md
+
 ### 12-10-23 7:09pm
 > Change version in .nvmrc
 
