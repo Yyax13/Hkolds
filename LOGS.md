@@ -1,6 +1,12 @@
 
 # Update Logs #
 
+### 12-10-23 6:31pm
+> Updated the "Logs" section title bug 
+
+### 12-10-23 6:29pm
+> Updated README
+
 ### 12-10-23 6:23pm
 > Created LOGS.md & translated all to english
 
