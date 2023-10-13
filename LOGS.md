@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 12-10-23 7:09pm
+> Change version in .nvmrc
+
 ### 12-10-23 6:40pm
 > Updated date in the last log
 
