@@ -5,7 +5,7 @@ Rede social e fórum para devs e hackers
 Para realizar uma contribuição com o projeto, basta dar um Fork ou um pull request
 
 # Status #
-Desenvolvimento (v0.0.14)
+Desenvolvimento (v0.0.19)
 
 # Update Logs #
 
