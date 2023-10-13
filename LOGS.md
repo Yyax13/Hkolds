@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 12-10-23 xx:xxxm
+> Updated version on package.json and package-lock.json
+
 ### 12-10-23 6:31pm
 > Updated the "Logs" section title bug 
 
