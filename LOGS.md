@@ -1,7 +1,10 @@
 
 # Update Logs #
 
-### 12-10-23 xx:xxxm
+### 12-10-23 6:40pm
+> Updated date in the last log
+
+### 12-10-23 6:40pm
 > Updated version on package.json and package-lock.json
 
 ### 12-10-23 6:31pm
