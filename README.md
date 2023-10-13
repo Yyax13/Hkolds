@@ -3,8 +3,14 @@ Rede social e fórum para devs e hackers
 # Contribuição #
 Para realizar uma contribuição com o projeto, basta dar um Fork ou um pull request
 # Status #
-Desenvolvimento (v0.0.12)
+Desenvolvimento (v0.0.14)
 # Update Logs #
+
+### 12-10-23 5:45pm
+> README.md atualizado para commits anteriores não documentados
+
+### 12-10-23 5:42pm
+> Definido .next e .vscode no .gitignore
 
 ### 12-10-23 4:45pm
 > Coloquei uma mensagem para meu amigo no index.js
