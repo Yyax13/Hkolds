@@ -1,10 +1,13 @@
 
 # Update Logs #
 
-### 14-10-23 9:12pm
+### 14-10-23 1:52pm
+> Changed page content
+
+### 14-10-23 9:12am
 > Changed title and others
 
-### 14-10-23 9:09pm
+### 14-10-23 9:09am
 > Daily check of manifest json files
 
 ### 13-10-23 7:11pm
