@@ -1,5 +1,12 @@
 function Home() {
-    return <h1>Fala pro henry liberar logo a network :D</h1>
+    return <html lang="pt-br">
+        <head>
+            <title>HK Olds</title>
+        </head>
+        <body>
+            <p>HK Olds</p>
+        </body>
+    </html>
 }
 
 export default Home;

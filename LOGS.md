@@ -1,7 +1,10 @@
 
 # Update Logs #
 
-### 14-10-23 7:11pm
+### 14-10-23 9:12pm
+> Changed title and others
+
+### 14-10-23 9:09pm
 > Daily check of manifest json files
 
 ### 13-10-23 7:11pm

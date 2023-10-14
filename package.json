@@ -1,6 +1,6 @@
 {
   "name": "hkolds",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "description": "Rede social e fórum para devs e hackers",
   "main": "index.js",
   "scripts": {
