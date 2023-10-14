@@ -5,7 +5,7 @@ Social network for hackers and devs
 You can send pull requests, create your own branch and fork
 
 # Status #
-In development (v0.0.26)
+In development (v0.0.27)
 
 # Logs #
 

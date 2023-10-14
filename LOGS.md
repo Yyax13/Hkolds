@@ -1,44 +1,47 @@
 
 # Update Logs #
 
-### 12-10-23 7:11pm
+### 14-10-23 7:11pm
+> Daily check of manifest json files
+
+### 13-10-23 7:11pm
 > Change version in README.md
 
-### 12-10-23 7:09pm
+### 13-10-23 7:09pm
 > Change version in .nvmrc
 
-### 12-10-23 6:40pm
+### 13-10-23 6:40pm
 > Updated date in the last log
 
-### 12-10-23 6:40pm
+### 13-10-23 6:40pm
 > Updated version on package.json and package-lock.json
 
-### 12-10-23 6:31pm
+### 13-10-23 6:31pm
 > Updated the "Logs" section title bug 
 
-### 12-10-23 6:29pm
+### 13-10-23 6:29pm
 > Updated README
 
-### 12-10-23 6:23pm
+### 13-10-23 6:23pm
 > Created LOGS.md & translated all to english
 
-### 12-10-23 6:07pm
+### 13-10-23 6:07pm
 > Deleted node_modules, .next and .vscode
 
-### 12-10-23 5:45pm
+### 13-10-23 5:45pm
 > README.md update
 
-### 12-10-23 5:42pm
+### 13-10-23 5:42pm
 > Defined .next and .vscode in .gitignore
 
-### 12-10-23 4:45pm
+### 13-10-23 4:45pm
 > Put a message to my friend in index.js
 
-### 12-10-23 3:30pm
+### 13-10-23 3:30pm
 > Run the localhost and run a test in the compile function for public ports
 
-### 12-10-23 2:30pm
+### 13-10-23 2:30pm
 > Changed * for # in the "Update Logs" title
 
-### 12-10-23 2:28pm
+### 13-10-23 2:28pm
 > README updated
