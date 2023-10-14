@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 14-10-23 6:08pm
+> Time api is now INFO api
+
 ### 14-10-23 6:00pm
 > First version of time api
 
