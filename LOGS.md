@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 19-10-23 3:03pm
+> Deployed api v1/version
+
 ### 16-10-23 1:11pm
 > Restarted the API creation in local git project
 
