@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 20-10-23 2:20pm
+> Started api/v2 creation
+
 ### 19-10-23 3:03pm
 > Deployed api v1/version
 
