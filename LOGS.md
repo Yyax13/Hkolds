@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 20-10-23 2:45pm
+> Deleted api/v2 and tryed the local development
+
 ### 20-10-23 2:38pm
 > Trying to resolve css index api/v2
 
