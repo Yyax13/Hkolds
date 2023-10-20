@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 20-10-23 2:34pm
+> Remove css (trying to solve the error)
+
 ### 20-10-23 2:20pm
 > Started api/v2 creation
 

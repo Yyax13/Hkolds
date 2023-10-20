@@ -1,13 +1,12 @@
-import react from "react";
-import 'styles.css'
+import React from 'react';
 
 function Home() {
     return <html lang="pt-br">
         <head>
-            <title>HK Olds</title>
+            <title>HK Olds api</title>
         </head>
         <body>
-            <h1 class="title">Hkolds</h1>
+            <h1 class="title">Hkolds API V2</h1>
             <p>In development ...</p>
         </body>
     </html>
