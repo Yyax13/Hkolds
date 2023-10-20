@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Home() {
+function HomeAPIV2() {
     return <html lang="pt-br">
         <head>
             <title>HK Olds api</title>
@@ -12,4 +12,4 @@ function Home() {
     </html>
 }
 
-export default Home;
+export default HomeAPIV2();

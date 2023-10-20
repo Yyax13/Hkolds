@@ -1,6 +1,9 @@
 
 # Update Logs #
 
+### 20-10-23 2:38pm
+> Trying to resolve css index api/v2
+
 ### 20-10-23 2:34pm
 > Remove css (trying to solve the error)
 
