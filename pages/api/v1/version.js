@@ -9,9 +9,10 @@ export default (request, response) => {
         const version = packageJson.version;
         response.status(200).json({
             status: 'Deploy',
-            projectVersion: `${version}`,
+            projectVersion: version,
         });
-    } catch (error) {
-        response.status(500).json({ error: 'ERROR' });
+    } catch (err) {
+        console.log(err);
+        response.status(500).json({ error: err });
     }
 };
